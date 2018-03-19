@@ -1,4 +1,4 @@
-# Job Zone
+# Job Zone (Project 2)
 A job-searching/job-posting application that uses Node.js, Express, MySQL, Passport.js(Authentication), EJS, Materialize, & Bootstrap.
 
 ## Description
