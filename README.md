@@ -7,7 +7,13 @@ This website demonstrates a full stack application with a front end implemented 
 
 The user is welcomed with the homescreen, which shows a little about the app itself, plus some recent customer reviews and our business contact information.
 
-Then, the user can create his/her Login credentials by clicking on "SIGN UP". Once the new user's profile has been created, they can login into the site and start using all of the main site's functionlities (like "Create a Post", "Search Posts", etc).  
+<img src="./public/images/gifs/intro.gif" alt="Introduction App" height="600">
+
+Then, the user can create his/her Login credentials by clicking on "SIGN UP". Once the new user's profile has been created, they can login into the site and start using all of the main site's functionlities (like "Create a Post", "Search Posts", etc).
+
+<img src="./public/images/gifs/signup.gif" alt="Signup" height="600">
+
+<img src="./public/images/gifs/functions.gif" alt="Functions" height="600">
 
 ### Additional facts:
 
@@ -15,7 +21,11 @@ Then, the user can create his/her Login credentials by clicking on "SIGN UP". On
 
 * On Create a Post, the user can fill the input fields and create a Post. Once this step is completed, this data will be saved in the database and redirect to Search Post page.
 
+<img src="./public/images/gifs/post.gif" alt="Create Post" height="600">
+
 * On Search Posts, the user types for a particular category or key words (like "carpenter"), and after clicking on "Search", the app will search the database and if it finds an entry, it will return it.
+
+<img src="./public/images/gifs/search.gif" alt="Search" height="600">
 
 * Log out option (located on the username's drop-down menu), will destroy local session. And rediect to homepage.  
 
